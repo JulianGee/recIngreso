@@ -72,8 +72,8 @@ function mostrar()
 			contA++
 			acumA += sueldo;
 		}
-		else(sueldo = "qa"){
-	
+		else(sueldo = "qa")
+		{
 			contQ++
 			acumQ += sueldo;
 		}
